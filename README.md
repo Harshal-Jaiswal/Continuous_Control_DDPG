@@ -44,7 +44,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 __Real-World Robotics__
 Watch this [YouTube video](https://www.youtube.com/watch?v=ZVIxt2rt1_4) to see how some researchers were able to train a similar task on a real robot!
 
-![Trainin](https://video.udacity-data.com/topher/2018/May/5b0c72f3_output/output.gif)
+![Trainin](https://video.udacity-data.com/topher/2018/June/5b35985b_image8/image8.gif)
 
 Training robotic arm to reach target locations in the real world.
 
