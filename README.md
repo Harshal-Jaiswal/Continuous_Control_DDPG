@@ -2,7 +2,7 @@ __The Environment__
 
 For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
 
-![Unity ML-Agents Reacher Environment](https://classroom.udacity.com/nanodegrees/nd893/parts/286e7d2c-e00c-4146-a5f2-a490e0f23eda/modules/089d6d51-cae8-4d4b-84c6-9bbe58b8b869/lessons/5b822b1d-5c89-4fd5-9b52-a02ddcfd3385/concepts/540e7c18-6831-417e-981c-309c3ffedd56#)
+![Unity](https://video.udacity-data.com/topher/2018/June/5b1ea778_reacher/reacher.gif)
 Unity ML-Agents Reacher Environment
 
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
