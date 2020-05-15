@@ -35,6 +35,7 @@ The barrier for solving the second version of the environment is slightly differ
 As an example, consider the plot below, where we have plotted the average score (over all 20 agents) obtained with each episode.
 
 ![Plot of average scores (over all agents) with each episode](https://video.udacity-data.com/topher/2018/July/5b48f845_unknown/unknown.png)
+
 Plot of average scores (over all agents) with each episode.
 
 The environment is considered solved, when the average (over 100 episodes) of those average scores is at least +30. In the case of the plot above, the environment was solved at episode 63, since the average of the average scores from episodes 64 to 163 (inclusive) was greater than +30.
@@ -43,7 +44,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
 __Real-World Robotics__
 Watch this [YouTube video](https://www.youtube.com/watch?v=ZVIxt2rt1_4) to see how some researchers were able to train a similar task on a real robot!
 
-![Training robotic arm to reach target locations in the real world.](https://video.udacity-data.com/topher/2018/May/5b0c72f3_output/output.gif)
+![Trainin](https://video.udacity-data.com/topher/2018/May/5b0c72f3_output/output.gif)
+
 Training robotic arm to reach target locations in the real world.
 
 
